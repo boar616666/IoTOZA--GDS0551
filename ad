@@ -1,10 +1,23 @@
-[33mcommit 3830902d5164b2050e07a92ab3cae0134954196f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[33mcommit 82b2cef4b042c770c9a114e5f446e20b50d46b52[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 3830902 d4c8ae0
+Author: boar616666 <gearssgt@gmail.com>
+Date:   Fri Feb 2 10:46:05 2024 -0600
+
+    Resolviendo conflictos
+
+[33mcommit d4c8ae01b3378a667c337c215e663c5051c40ee7[m[33m ([m[1;32mfeature-login[m[33m)[m
+Author: boar616666 <gearssgt@gmail.com>
+Date:   Fri Feb 2 10:41:56 2024 -0600
+
+    Modificacion desde login
+
+[33mcommit 3830902d5164b2050e07a92ab3cae0134954196f[m
 Author: boar616666 <gearssgt@gmail.com>
 Date:   Fri Feb 2 10:38:44 2024 -0600
 
     Modificacion desde main
 
-[33mcommit 00c8a2d81d78abfb9d1bf06856703304067cb35a[m[33m ([m[1;32mfeature-login[m[33m)[m
+[33mcommit 00c8a2d81d78abfb9d1bf06856703304067cb35a[m
 Author: boar616666 <gearssgt@gmail.com>
 Date:   Fri Feb 2 10:32:15 2024 -0600
 
